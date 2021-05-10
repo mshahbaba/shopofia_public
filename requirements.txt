@@ -1,0 +1,10 @@
+pandas
+numpy
+Pillow
+inflect
+google-cloud-storage
+requests
+google-cloud-vision
+google-api-core
+google-cloud-core
+grpcio
